@@ -65,7 +65,7 @@
   "observer": "2026.02.0",
   "images": {
     "core": "ghcr.io/siksil/{machine}-homeassistant",
-    "supervisor": "ghcr.io/home-assistant/{arch}-hassio-supervisor",
+    "supervisor": "ghcr.io/siksil/{arch}-hassio-supervisor",
     "cli": "ghcr.io/home-assistant/{arch}-hassio-cli",
     "audio": "ghcr.io/home-assistant/{arch}-hassio-audio",
     "dns": "ghcr.io/home-assistant/{arch}-hassio-dns",
