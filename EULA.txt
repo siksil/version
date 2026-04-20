@@ -1,0 +1,30 @@
+AEONDECK END USER LICENSE AGREEMENT (EULA)
+
+IMPORTANT – READ CAREFULLY: This End User License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and AramaKim ("Licensor") for the AeonDeck Operating System and associated software components ("Software").
+
+By installing, copying, or otherwise using the Software, you agree to be bound by the terms of this Agreement. 
+
+1. GRANT OF LICENSE
+Subject to the terms and conditions of this Agreement, Licensor grants you a limited, non-exclusive, non-transferable, and non-sublicensable license to install and use the Software solely for your personal or internal business operations. 
+
+2. RESTRICTIONS
+The Software is licensed, not sold. You may not:
+* Resell, Distribute, or Transfer: You may not rent, lease, lend, sell, redistribute, or sublicense the Software.
+* Reverse Engineer: You may not decompile, reverse engineer, disassemble, or attempt to derive the proprietary source code of the AeonDeck-specific components, except to the extent permitted by applicable law.
+* Modify: You may not modify, alter, or create derivative works of the proprietary AeonDeck interfaces, branding, or cloud connection protocols.
+
+3. INTELLECTUAL PROPERTY AND OWNERSHIP
+All title, ownership rights, and intellectual property rights in and to the Software's proprietary modifications, AeonDeck Cloud services, branding, and customized UI components remain the sole property of the Licensor. 
+
+4. OPEN SOURCE ACKNOWLEDGMENTS
+The Software is built upon and incorporates modified versions of open-source software, primarily the Home Assistant Operating System.
+* The underlying Home Assistant components are copyright (c) The Home Assistant Authors.
+* These components are licensed under the Apache License, Version 2.0 (the "License"); you may not use those specific underlying files except in compliance with the License. 
+* A copy of the License may be obtained at: http://www.apache.org/licenses/LICENSE-2.0
+* Unless required by applicable law or agreed to in writing, the original open-source software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+
+5. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. TERMINATION
+This Agreement is effective until terminated. Your rights under this Agreement will terminate automatically without notice from the Licensor if you fail to comply with any term(s) of this Agreement. Upon termination, you must cease all use of the Software and destroy all copies.
