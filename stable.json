@@ -4,10 +4,10 @@
   "homeassistant": {
     "default": "2026.4.2",
     "qemux86": "2025.11.3",
-    "qemux86-64": "2026.4.3",
+    "qemux86-64": "2026.4.4",
     "qemuarm": "2025.11.3",
     "qemuarm-64": "2026.4.3",
-    "generic-x86-64": "2026.4.3",
+    "generic-x86-64": "2026.4.4",
     "intel-nuc": "2026.4.2",
     "khadas-vim3": "2026.4.2",
     "raspberrypi": "2025.11.3",
