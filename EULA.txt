@@ -1,6 +1,6 @@
-AEONDECK END USER LICENSE AGREEMENT (EULA)
+INPUI END USER LICENSE AGREEMENT (EULA)
 
-IMPORTANT – READ CAREFULLY: This End User License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and AramaKim ("Licensor") for the AeonDeck Operating System and associated software components ("Software").
+IMPORTANT – READ CAREFULLY: This End User License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and Siksil ("Licensor") for the INPUI Operating System and associated software components ("Software").
 
 By installing, copying, or otherwise using the Software, you agree to be bound by the terms of this Agreement. 
 
