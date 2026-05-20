@@ -3,7 +3,7 @@
   "supervisor": "2026.04.0",
   "homeassistant": {
     "default": "2026.4.2",
-    "qemuarm-64": "2026.4.3",
+    "qemuarm-64": "2026.4.4",
     "generic-x86-64": "2026.4.3"
   },
   "hassos": {
