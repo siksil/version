@@ -31,15 +31,8 @@
     "rpi3-64": "17.2",
     "rpi4-64": "17.2",
     "rpi5-64": "17.2",
-    "yellow": "17.2",
-    "green": "17.2",
-    "odroid-c2": "17.2",
-    "odroid-c4": "17.2",
-    "odroid-m1": "17.2",
-    "odroid-m1s": "17.2",
-    "odroid-n2": "17.2",
-    "generic-x86-64": "17.2",
-    "generic-aarch64": "17.2",
+    "generic-x86-64": "1.0.0",
+    "generic-aarch64": "1.0.0",
     "khadas-vim3": "17.2"
   },
   "hassos-upgrade": {
