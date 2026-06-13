@@ -23,7 +23,7 @@
     "rpi4-64": "17.2",
     "rpi5-64": "17.2",
     "generic-x86-64": "1.0.0",
-    "generic-aarch64": "1.0.0",
+    "generic-aarch64": "1.1.0",
     "khadas-vim3": "17.2"
   },
   "hassos-upgrade": {
