@@ -4,10 +4,10 @@
   "homeassistant": {
     "default": "2026.4.5",
     "qemux86": "2025.11.3",
-    "qemux86-64": "2026.4.4",
+    "qemux86-64": "2026.8.2",
     "qemuarm": "2025.11.3",
-    "qemuarm-64": "2026.7.1",
-    "generic-x86-64": "2026.7.1",
+    "qemuarm-64": "2026.8.2",
+    "generic-x86-64": "2026.8.2",
     "raspberrypi": "2025.11.3",
     "raspberrypi2": "2025.11.3",
     "raspberrypi3": "2025.11.3",
