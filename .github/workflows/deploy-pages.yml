@@ -33,13 +33,13 @@ jobs:
           for f in *.json; do jq empty "$f"; done
 
       - name: Setup Pages
-        uses: actions/configure-pages@983d7736d6b9cb9bd0a55ef1caa0eb7a22c5d0b8 # v5.0.0
+        uses: actions/configure-pages@v5
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@7b1f4a764d45d48ae2d8b0e1a0b6d3e5b0c9f2d1 # v3.0.1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: '.'
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4.0.5
+        uses: actions/deploy-pages@v4
