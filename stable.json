@@ -7,7 +7,7 @@
     "qemux86-64": "2026.8.2",
     "qemuarm": "2025.11.3",
     "qemuarm-64": "2026.8.2",
-    "generic-x86-64": "2026.8.2",
+    "generic-x86-64": "2026.8.3.dev2",
     "raspberrypi": "2025.11.3",
     "raspberrypi2": "2025.11.3",
     "raspberrypi3": "2025.11.3",
